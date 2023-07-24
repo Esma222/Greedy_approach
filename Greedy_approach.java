@@ -32,7 +32,7 @@ public class Esma_Beydili_2020510018 {
 	}
 	
 
-        // Driver code
+        //  Driver code
         public static void main(String args[])throws FileNotFoundException
         {  
         	
